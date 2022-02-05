@@ -1,6 +1,6 @@
 ## Enchanting runes
 
-### Potency:
+### Potency+
 
 - Trifling: Jora
 - Inferior: Porade 
@@ -19,12 +19,51 @@
 - Superb: Rejera 
 - Truly Superb: Repora
 
+### Potency-
+
+- Trifling: Jode
+- Inferior: Notade
+- Petty: Ode
+- Slight: Tade
+- Minor: Jayde
+- Lesser: Edode
+- Moderate: Pojode
+- Average: Rekude
+- Strong: Hade
+- Major: Idode
+- Greater: Pode
+- Grand: Kedeko
+- Splendid: Rede
+- Monumental: Kude
+
 ### Effect (essence):
 
 - Stamina: Deni
 - Magicka: Makko
 - Health: Oko
 
+## Provisioning
+
+Foods needed:
+
+- Apple
+- Barley
+- Bittergreen
+- Carrots
+- Cheese
+- Corn
+- Fish
+- Garlic
+- Ginger
+- Ginkgo
+- Honey
+- Jasmine
+- Jazbay Grapes
+- Lemon
+- Metheglin
+- Saltrice
+- Small Game
+- Surilie Grapes
 
 ## Links
 
