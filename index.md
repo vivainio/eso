@@ -6,32 +6,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Enchanting runes
 
-Potency:
+### Potency:
 
 
-Trifling 	Jora
-Inferior 	Porade 
-Petty 	Jera 
-Slight 	Jejora 
-Minor 	Odra 
-Lesser 	Pojora 
-Moderate 	Edora 
-Average 	Jaera 
-Strong 	Pora
-Major 	Denara 
-Greater 	Rera 
-Grand 	Derado 
-Splendid 	Rekura 
-Monumental 	Kura 
-Superb 	Rejera 
-TrulySuperb 	Repora
+- Trifling 	Jora
+- Inferior 	Porade 
+- Petty 	Jera 
+- Slight 	Jejora 
+- Minor 	Odra 
+- Lesser 	Pojora 
+- Moderate 	Edora 
+- Average 	Jaera 
+- Strong 	Pora
+- Major 	Denara 
+- Greater 	Rera 
+- Grand 	Derado 
+- Splendid 	Rekura 
+- Monumental 	Kura 
+- Superb 	Rejera 
+- TrulySuperb 	Repora
 
-Effect:
+### Effect:
 
 Stamina: Deni
-
-
-
 
 
 
