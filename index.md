@@ -8,7 +8,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Potency:
 
-
 - Trifling 	Jora
 - Inferior 	Porade 
 - Petty 	Jera 
@@ -28,8 +27,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Effect:
 
-Stamina: Deni
-
+- Stamina: Deni
+- Magicka: Makko
 
 
 ### Markdown
