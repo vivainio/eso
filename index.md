@@ -99,6 +99,32 @@ Craft
 - Plentiful harvest *
 
 
+## Skills
+
+Destruction staff
+
+- Force shock -> Force pulse
+- Wall of elements
+
+Sorcerer
+
+- Crystal Shard -> Crystal Fragments
+- Daedric Curse -> Daedric Prey
+- Summon Winged Twilight -> Summon Twilight Matriarch
+- Summon Storm Atronach -> Summon Charged Atronach
+
+Healer
+
+- Blessing of Protection -> Combat Prayer
+- Grand Healing -> Healing Springs
+
+Assault 
+
+- Continuous Attack
+
+
+
+
 ## Links
 
 - [Survey maps](https://elderscrollsonline.wiki.fextralife.com/Survey+Maps)
