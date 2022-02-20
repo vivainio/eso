@@ -112,6 +112,7 @@ Sorcerer
 - Daedric Curse -> Daedric Prey
 - Summon Winged Twilight -> Summon Twilight Matriarch
 - Summon Storm Atronach -> Summon Charged Atronach
+- Surge -> Critical Surge
 
 Healer
 
@@ -121,8 +122,6 @@ Healer
 Assault 
 
 - Continuous Attack
-
-
 
 
 ## Links
